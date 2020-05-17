@@ -7,7 +7,7 @@ os - cryptography - platform
 
 os ve platform Python 3 kurulduğunda hazır gelen kütüphanelerdir.Yalnızca cryptography kütüphanesini kurmamız gerekiyor.
 
-Windows: `pip install cryptography `
+Windows: `pip install cryptography ` <br/>
 Linux: `pip3 install cryptography `
 
 **Program Kullanımı:**
